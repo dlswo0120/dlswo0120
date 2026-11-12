@@ -1,4 +1,4 @@
-# Injae Jeon
+<!-- # Injae Jeon
 
 QA 엔지니어 3년 경력을 바탕으로 데이터 분석가로 성장하고 있습니다.
 
@@ -48,4 +48,81 @@ QA 엔지니어 3년 경력을 바탕으로 데이터 분석가로 성장하고 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) -->
+# 👋 Hi, I'm `이름`
+
+### 🎓 Engineering Student | Aspiring Data Analyst
+
+> 데이터 속 숨겨진 패턴을 발견하고, AI를 활용해 미래를 예측하는 데이터 분석가를 꿈꿉니다.
+
+안녕하세요! 데이터 분석가를 목표로 성장하고 있는 공대생입니다.
+
+수천, 수만 개의 데이터를 분석하고 통계적 접근과 AI 기술을 활용해 의미 있는 인사이트를 도출하는 것에 관심이 있습니다.
+
+단순히 데이터를 시각화하는 것을 넘어, **데이터가 의미하는 바를 이해하고 미래를 예측하는 분석 역량**을 키우고 있습니다.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Data Analysis & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+### Statistics & Machine Learning
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Tools & Environment
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Python을 활용한 데이터 전처리 및 분석
+- 통계적 기법을 활용한 데이터 해석
+- 데이터 시각화 및 EDA
+- 머신러닝 기반 예측 모델링
+- AI를 활용한 대규모 데이터 분석
+
+---
+
+## 🎯 Interests
+
+- 📊 Exploratory Data Analysis (EDA)
+- 🤖 Artificial Intelligence & Machine Learning
+- 📈 Statistical Analysis & Predictive Modeling
+- 🔍 Finding Hidden Patterns in Big Data
+- 🚀 Data-driven Decision Making
+
+---
+
+## 📂 Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| `프로젝트명 1` | 데이터 분석 및 시각화 프로젝트 | Python, Pandas |
+| `프로젝트명 2` | 통계 기반 데이터 비교 분석 | Python, Statistics |
+| `프로젝트명 3` | AI 기반 예측 모델링 | Python, Scikit-learn |
+
+---
+
+## 📫 Contact
+
+- GitHub: [@`깃허브아이디`](https://github.com/`깃허브아이디`)
+- Email: `이메일 주소`
+
+---
+
+⭐ **Always Learning, Always Exploring.**
+
+데이터를 이해하고, 패턴을 발견하며, 미래를 예측하는 분석가로 성장하겠습니다.
