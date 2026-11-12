@@ -49,7 +49,7 @@ QA 엔지니어 3년 경력을 바탕으로 데이터 분석가로 성장하고 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) -->
-# 👋 Hi, I'm `이름`
+# 👋 Hi, I'm `전인재`
 
 ### 🎓 Engineering Student | Aspiring Data Analyst
 
